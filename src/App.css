@@ -1,0 +1,55 @@
+.main-heading{
+  margin-top: 100px;
+  font-size: 60px;
+  max-width: 500px;
+  font-weight: bolder;
+  color: black;
+}
+.paragraph{
+  font-size: 20px;
+}
+.btn1{
+  color: white;
+  background-color: #198754;
+  border-radius: 6px;
+  font-size: 20px;
+  padding: 10px 22px ;
+  border: none;
+  margin-top: 50px;
+  margin-bottom: 120px;
+}
+.main-container{
+  background-image: url(./assets/plantImage.c3bdf6366f50f26bc779.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+}
+.container{
+  display: flex;
+  
+}
+.image3{
+  background-color: rgba(255, 255, 255, 0.445);
+  height: 90px;
+  padding: 20px;
+  border-radius: 50px;
+  border: 1px solid rgba(245, 222, 179, 0.37);
+  margin-top: 150px;
+  margin-left: 150px;
+}
+.image{
+  width: 50px;
+  padding-left: 5px;
+}
+.icon{
+  font-size: 70px;
+  margin-left: 15px;
+}
+.block{
+  width: 290px;
+}
+.block2{
+  display: flex;
+  justify-content: space-between;
+}
